@@ -1,4 +1,4 @@
-= Notatki szkolne
+= What's the country?
 :toc:
 :toc-title: Spis treści
 :icons: font
@@ -10,64 +10,8 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
-== Przedmioty
+== O tej stronie
 
-=== Fizyka
+=== Afryka
 
 . link:Fizyka/Poj%C4%99cie-pr%C4%85du-elektrycznego.html[Pojęcie prądu elektrycznego.]
-. link:Fizyka/Pr%C4%85d-elektryczny_Napi%C4%99cie-i-nat%C4%99%C5%BCenie-pr%C4%85du-elektrycznego.html[Napięcie i natężenie prądu.]
-. link:Fizyka/Opór-elektryczny.html[Opór elektryczny.]
-. link:Fizyka/Praca_moc-prądu-elektrycznego.html[Praca i moc prądu elektrycznego.]
-. link:Fizyka/drgania_fale.html[Drgania i fale.]
-
-=== Matematyka
-
-. link:Matematyka/R%C3%B3wnania.html[Równania.]
-
-=== Język polski
-
-. link:j_polski/Nazwy-osobowe-i-miejscowe.html[Nazwy osobowe i miejscowe.]
-. link:j_polski/Przygotowanie-przed-sprawdzianem.html[Przygotowanie do sprawdzianu nr 1.]
-. link:j_polski/Sprawdzian_2.html[Przygotowanie do sprawdzianu nr 2.]
-. link:j_polski/konkurs-kuratoryjny.html[Konkurs z j. polskiego.]
-. link:j_polski/Czesci_zdania.html[Części zdania.]
-
-=== Język niemiecki
-
-. link:Niemiecki/data_spr_1.html[Sprawdzian (daty, pogoda, urodziny).]
-
-=== Język angielski
-
-. link:Angielski/bierna.html[Strona bierna.]
-. link:Angielski/kartkowka_Sosnij_slowka.html[Słownictwo kartkówka (18.02.2022).]
-. link:Angielski/Colombia.html[Kolumbia - projekt]
-
-=== Chemia
-
-. link:Chemia/Wodorotlenki.html[Wodorotlenki.]
-. link:Chemia/Wodorotlenki-pierwiastków-drugiej-grupy.html[Wodorotlenki pierwiastków drugiej grupy.]
-. link:Chemia/Sprawdzian_1.html[Przygotowanie do sprawdzianu nr 1.]
-
-=== Biologia
-
-. link:Biologia/Czym-zajmuje-się-genetyka[Czym zajmuje się genetyka?]
-. link:Biologia/Budowa-DNA.html[Budowa DNA.]
-. link:Biologia/Podziały-komórkowe.html[Podziały komórkowe.]
-. link:Biologia/Podstawowe-prawa-dziedziczenia.html[Podstawowe prawa dziedziczenia.]
-. link:Biologia/Ewolucja_spr.html[Ewolucja życia.]
-
-=== Historia
-
-. link:Historia/Decyzje-wielkich-mocarstw.html[Decyzje wielkich mocarstw.]
-. link:Historia/Pod-okupacją.html[Pod okupacją wielkich mocarstw.]
-. link:Historia/Rząd-londyński_Polskie-Państwo-Podziemne.html[Rząd Londyński i Polskie Państwo Podziemne.]
-
-=== Geografia
-. link:Geografia/%C5%9Arodowisko-przyrodnicze-Azji.html[Środowisko przyrodnicze Azji.]
-. link:Geografia/Wulkanizm-i-trz%C4%99sienia-ziemi-w-Azji.html[Wulkanizm i trzęsienia ziemi w Azji.]
-. link:Geografia/Rolnictwo_Azji.html[Rolnictwo Azji.]
-. link:Geografia/Japonia_symbol-nowoczesnej-gospodarki.html[Japonia, symbol nowoczesnej gospodarki.]
-. link:Geografia/Chiny_najludniejsze-pa%C5%84stwo-%C5%9Bwiata.html[Chiny, najludniejsze państwo świata.]
-. link:Geografia/Indie_panstwo-kontrastow-spolecznych-i-gospodarczych.html[Indie, państwo kontrastów społecznych i gospodarczych.]
-. link:Geografia/Po%C5%82o%C5%BCenie_Bliskiego-Wschodu.html[Bliski Wschód, kultura i gospodarka.]
-. link:Geografia/Afryka-spr/Afryka_ogolne.html[Afryka, tematy przygotowujące do sprawdzianu.]
